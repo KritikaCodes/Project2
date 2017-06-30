@@ -1,0 +1,14 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+#1 I have learned various new tags that I hadn’t looked into before starting the program. Learned more about relative vs absolute, local vs external paths. Learned more about git! :D
+#2 creating elements has been easy so far.
+#3 Getting stuck and then being unable to figure out what’s wrong, even though it was very apparent!
+#4 I did!! I tried figuring out how to resolve an issue I was having. I tried various ways to approach it. I googled more examples and learned a lot more about relative paths. And when I still couldn’t fix the issue, I reached out to my fellow students. :)
